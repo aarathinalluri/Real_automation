@@ -1,2 +1,1 @@
-# Real_automation
-Real application test
+building framework using selenium with java
